@@ -1,7 +1,7 @@
 ### Hi there 👋
 Contact me
-linkdn: linkedin.com/in/mikhailo-benesko
-telegram: t.me/Mikhailo_ben
+linkdn: https://www.linkedin.com/in/mikhailo-benesko/
+telegram: https://t.me/Mikhailo_ben
 e-mail: mikhailo.benesko@gmail.com
 
 <!--
