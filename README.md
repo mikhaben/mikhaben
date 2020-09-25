@@ -1,4 +1,8 @@
 ### Hi there 👋
+Contact me
+linkdn: linkedin.com/in/mikhailo-benesko
+telegram: t.me/Mikhailo_ben
+e-mail: mikhailo.benesko@gmail.com
 
 <!--
 **mikhaben/mikhaben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
