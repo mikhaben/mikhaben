@@ -1,9 +1,8 @@
-# Code & having fun
-
-<p class="flex">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRoMjd4emw3aWxsdTgwa2kyZmtwdzAwc2sxa3k4MTd5dTg4dmIydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="150" />
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzAzanBqbHFlbGR2MWNqaDhoYm44eXltbWZ3YXFzZ2o1MzUyZDdqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="150" />
+<p style="display: flex">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRoMjd4emw3aWxsdTgwa2kyZmtwdzAwc2sxa3k4MTd5dTg4dmIydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="200" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzAzanBqbHFlbGR2MWNqaDhoYm44eXltbWZ3YXFzZ2o1MzUyZDdqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="200" />
 </p>
+<br/>
 
 #### My tools
 <p>
