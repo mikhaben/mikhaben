@@ -1,7 +1,6 @@
 # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzAzanBqbHFlbGR2MWNqaDhoYm44eXltbWZ3YXFzZ2o1MzUyZDdqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="50" /> Code & having fun
 
 <p style="font-size: 22px">They say code is an art form—so when people call my code 'abstract', I just say it's my Picasso phase.</p>
-<br />
 
 ### ⚙️ Languages and Tools
 <p>
