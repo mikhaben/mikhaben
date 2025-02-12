@@ -7,7 +7,7 @@
 
 <p style="font-size: 22px">They say code is an art form—so when people call my code 'abstract', I just say it's my Picasso phase.</p>
 
-### ⚙️ Languages and Tools
+#### Languages and Tools
 <p>
     <img alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
